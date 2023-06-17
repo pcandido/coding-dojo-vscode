@@ -24,6 +24,10 @@
       {
         "command": "coding-dojo.stop-timer",
         "title": "Dojo: Stop timer"
+      },
+      {
+        "command": "coding-dojo.rotate",
+        "title": "Dojo: Rotate"
       }
     ]
   },
