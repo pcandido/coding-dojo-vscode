@@ -1,8 +1,10 @@
 {
   "name": "coding-dojo",
-  "displayName": "coding-dojo",
+  "displayName": "Coding Dojo",
   "description": "Helps your team to run a coding dojo",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "PauloCandido",
+  "icon": "./icon.png",
   "repository": {
     "url": "https://github.com/pcandido/coding-dojo-vscode"
   },
