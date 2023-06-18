@@ -1,71 +1,39 @@
-# coding-dojo README
+# Coding Dojo
 
-This is the README for your extension "coding-dojo". After writing up a brief description, we recommend including the following sections.
+![demo](docs/coding-dojo.gif)
+
+The Coding Dojo Extension for Visual Studio Code is a simple, but powerful tool designed to facilitate and enhance coding dojo sessions. It provides a seamless and efficient way to manage participant lists, rotation, and timer functionality, ensuring smooth and productive coding sessions.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+* **Participant List Management**: Easily create and manage a list of participants for your coding dojo sessions. The initially provided list will be shuffled for the session.
+* **Rotation Management**: At the end of each turn, the rotation will occur automatically, but it is also possible for the facilitator to perform the rotation.
+* **Timer Functionality**: Choose the time for each turn and see the timer running in the status bar. While the timer is stopped, the bar will be highlighted in color.
 
-For example if there is an image subfolder under your extension project workspace:
+## Installation
+* Launch Visual Studio Code.
+* Open the Extensions view by clicking on the square icon on the left sidebar or pressing **Ctrl+Shift+X** or **⌘+Shift+X**.
+* Search for "Coding Dojo" in the extensions marketplace.
+* Locate the "Coding Dojo" extension by author "Paulo Cândido" and click on the "Install" button.
+* After installation, the extension will be ready to use.
 
-\!\[feature X\]\(images/feature-x.png\)
+## Usage
+* Open a workspace or folder where you want to manage your coding dojo session.
+* Open the command palette (**Ctrl+Shift+P** or **⌘+Shift+P**) and select `Dojo: Start coding dojo`.
+* Provide the participant list, separated by a comma, e.g. `Luke, Leia, Han`.
+* Provide the time for each turn, e.g. `5`.
+* Check status bar, current pair and a timer should be displayed.
+* Click on the timer to start or stop it.
+* Check other commands on the command palette (**Ctrl+Shift+P** or **⌘+Shift+P**) prefixed by `Dojo: `
+* Enjoy the session!
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Feedback
+Your feedback is valuable in improving the Coding Dojo Extension. If you encounter any issues, have suggestions for enhancements, or want to contribute to the project, please visit the GitHub repository and create a new issue.
 
-## Requirements
+Author: Paulo Cândido
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+## License
+This extension is licensed under the MIT License.
 
 ---
-
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+__Happy coding and enjoy your coding dojo sessions with the Coding Dojo extension for Visual Studio Code!__

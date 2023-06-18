@@ -28,6 +28,10 @@
       {
         "command": "coding-dojo.rotate",
         "title": "Dojo: Rotate"
+      },
+      {
+        "command": "coding-dojo.edit",
+        "title": "Dojo: Edit participant list"
       }
     ]
   },
