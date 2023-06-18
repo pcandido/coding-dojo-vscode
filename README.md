@@ -1,8 +1,8 @@
 # Coding Dojo
 
-![demo](docs/coding-dojo.gif)
-
 The Coding Dojo Extension for Visual Studio Code is a simple, but powerful tool designed to facilitate and enhance coding dojo sessions. It provides a seamless and efficient way to manage participant lists, rotation, and timer functionality, ensuring smooth and productive coding sessions.
+
+![demo](docs/coding-dojo.gif)
 
 ## Features
 
