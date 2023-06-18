@@ -28,7 +28,7 @@ The Coding Dojo Extension for Visual Studio Code is a simple, but powerful tool 
 * Enjoy the session!
 
 ## Feedback
-Your feedback is valuable in improving the Coding Dojo Extension. If you encounter any issues, have suggestions for enhancements, or want to contribute to the project, please visit the GitHub repository and create a new issue.
+Your feedback is valuable in improving the Coding Dojo Extension. If you encounter any issues, have suggestions for enhancements, or want to contribute to the project, please visit the [GitHub repository](https://github.com/pcandido/coding-dojo-vscode) and create a new issue.
 
 Author: Paulo Cândido
 
