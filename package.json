@@ -3,6 +3,9 @@
   "displayName": "coding-dojo",
   "description": "Helps your team to run a coding dojo",
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/pcandido/coding-dojo-vscode"
+  },
   "engines": {
     "vscode": "^1.79.0"
   },
